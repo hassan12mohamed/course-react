@@ -1,0 +1,77 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": "73930385"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "cityName": "Cairo",
+      "country": "🇪🇬",
+      "date": "2026-05-09T01:15:56.608Z",
+      "notes": "test",
+      "emoji": "🇪🇬",
+      "position": {
+        "lat": "30.050076521698735",
+        "lng": "31.816406250000004"
+      },
+      "id": "5UolTUT2MVA"
+    },
+    {
+      "cityName": "Herrera del Duque",
+      "country": "🇪🇸",
+      "date": "2026-05-09T01:18:21.964Z",
+      "notes": "test",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "39.232253141714914",
+        "lng": "-5.097656250000001"
+      },
+      "id": "mrYUtnanrsI"
+    },
+    {
+      "cityName": "Nizhneilimskiy Rayon",
+      "country": "🇷🇺",
+      "date": "2026-05-09T01:19:02.034Z",
+      "notes": "test",
+      "emoji": "🇷🇺",
+      "position": {
+        "lat": "56.511017504952164",
+        "lng": "104.765625"
+      },
+      "id": "AywoMZT_eb8"
+    },
+    {
+      "cityName": "Alba",
+      "country": "🇪🇸",
+      "date": "2026-05-09T01:19:29.597Z",
+      "notes": "test",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.64730356252251",
+        "lng": "-1.40625"
+      },
+      "id": "0_5SS4aXO6M"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
